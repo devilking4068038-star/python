@@ -1,2 +1,0 @@
-# python
-just doing rough 
